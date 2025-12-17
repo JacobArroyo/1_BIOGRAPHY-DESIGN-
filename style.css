@@ -1,0 +1,50 @@
+body {
+  background-color: #FAF3E1;
+}
+
+h1 {
+  color: #222831;
+  font-size: 42px;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #BF092F;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px; /* 18 font size in docs = 24px */
+}
+
+h2 {
+  color: #222831;
+  font-size: 42px;
+  text-align: center;
+  
+  text-decoration-color: #BF092F;
+  font-family: gerogia, serif;
+  font-size: 24px; /* 18 font size in docs = 24px */
+}
+
+h3 {
+  color: #222831;
+  font-size: 42px;
+  text-align: center;
+  
+  text-decoration-color: #BF092F;
+  font-family: gerogia, serif;
+  font-size: 24px; /* 18 font size in docs = 24px */
+}
+
+.autobiographycontent{
+  border: 2px solid black;
+  padding: 30px;
+  text-align: center;
+  font-size: 27px;
+  
+  background-color: #F5E7C6;
+  width: 60%;
+  margin: 0 auto;
+  box-shadow: 2px 5px 12px rgba(213, 12, 21, 0.3);
+  font-family: tahoma, serif;
+  font-size: 16px; /* 12 font size in docs = 16px */
+  text-align: justify;
+  text-indent: 40px;
+}
+
